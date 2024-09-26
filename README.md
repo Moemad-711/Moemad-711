@@ -11,7 +11,7 @@ I'm an innovative Software Engineer with a passion for DevOps and streamlining d
 
 
 - **DevOps Toolset:**
-  ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=ansible) ![Helm](https://img.shields.io/badge/-Helm-0F1689?&logo=helm) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes) ![K3s](https://img.shields.io/badge/-K3c-000000?&logo=k3c)
+  ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=ansible) ![Helm](https://img.shields.io/badge/-Helm-0F1689?&logo=helm) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes) ![K3c](https://img.shields.io/badge/-K3c-000000?&logo=kubernetes)
 
 - **CI/CD Tools:**
   ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?&logo=jenkins) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?&logo=github-actions) ![Travis CI](https://img.shields.io/badge/-Travis_CI-3EAAAF?&logo=travis-ci) ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?&logo=circleci)
