@@ -7,6 +7,7 @@ I'm an innovative Software Engineer with a passion for DevOps and streamlining d
 ---
 
 ### 🛠️ **Skills & Technologies**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - **DevOps Toolset:** Ansible, Helm Charts, Docker, Kubernetes, K3s
 - **CI/CD Tools:** Jenkins, GitHub Actions, Travis CI, CircleCI
